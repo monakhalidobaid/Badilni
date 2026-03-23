@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610003124613",
+    "project_id": "badilniv1",
+    "storage_bucket": "badilniv1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610003124613:android:6d17beccf039106df444ec",
+        "android_client_info": {
+          "package_name": "com.example.badilni_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgO7A_GHUZL2p61hlEWQkUDCmXdPY8WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
