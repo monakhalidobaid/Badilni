@@ -11,9 +11,9 @@ An innovative mobile platform designed to breathe new life into used books. **Ba
 ---
 
 ### Features
-* ** Physical Book Exchange:** List your pre-loved books and find others to swap with.
-* ** Smart E-Lending:** Borrow digital books with a custom "auto-return" logic that expires access after 30 days.
-* ** User-Centric Profiles:** Track your reading history, manage your "library," and chat with other book lovers.
+* Physical Book Exchange:** List your pre-loved books and find others to swap with.
+* Smart E-Lending:** Borrow digital books with a custom "auto-return" logic that expires access after 30 days.
+* User-Centric Profiles:** Track your reading history, manage your "library," and chat with other book lovers.
 
 ---
 
